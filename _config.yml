@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Jose L. Hurtado, Ph.D"
 title_separator          : "-"
-name                     : "Jose L. Hurtado"
+name                     : &name "Jose L. Hurtado"
 description              : &description "personal description"
 url                      : https://inkatown.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -29,7 +29,7 @@ author:
   location         : "Alexandria, VA"
   employer         : "Kuyayky, AAAS STPF, NSF EDU"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jose@kuyayky.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
