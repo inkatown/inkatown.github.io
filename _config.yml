@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jose L. Hurtado
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "AI policy leader, folk artist, and advocate for tech for all. Bridging data, culture, and ethics to drive holistic innovation."
+  location         : "Alexandria, VA"
+  employer         : "Kuyayky, AAAS STPF, NSF EDU"
   uri              : # URL
   email            : "none@example.org" 
 
