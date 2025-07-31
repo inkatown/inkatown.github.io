@@ -1,20 +1,20 @@
 ---
-title: "Portfolio item number 3"
-excerpt: "In this project I converted the Kuyayky EPK into a knowledge graph using OpenAI api.  <br/><img src='/images/500x300.png'>"
+title: Text to Knowledge Graph 
+excerpt: "In this project, I transformed the Kuyayky EPK into a knowledge graph using the OpenAI API. <br/><img src='/images/500x300.png'>" 
 collection: portfolio
 ---
 
-
 How This Python Code Works
+This project automates the creation of a knowledge graph from text using a few key components:
 
-This project uses several tools to automatically create a knowledge graph from text:
+AI Assistant (OpenAI): An intelligent model, specifically ChatOpenAI, reads and processes the input text to identify key concepts and the relationships between them.
 
-    AI Assistant (OpenAI): The code uses a smart AI (ChatOpenAI) to read text and identify the important concepts and relationships.
+Graph Transformer: The LLMGraphTransformer takes the information extracted by the AI and structures it into a knowledge graph, complete with nodes (the concepts) and edges (the relationships).
 
-    Graph Transformer: A special tool (LLMGraphTransformer) takes the AI's understanding and turns it into a structured knowledge graph with nodes (the important things) and edges (how they're connected).
+Visualization (PyVis): Using the Network tool from PyVis, the project generates an interactive web page that allows you to visually explore the created knowledge graph.
 
-    Visualization (PyVis): The Network tool from PyVis creates an interactive web page where you can see and explore the knowledge graph.
-
-    Environment Setup: The dotenv and os tools help manage your OpenAI API key securely.
+Environment Setup: The dotenv and os libraries handle the secure management of your OpenAI API key, ensuring it isn't exposed in the code.
 
 <a href="https://inkatown.github.io/portfolio/kuyayky_epk.html">Kuyayky_epk.html</a>
+
+You can find the full code for this project in my [repository](<a href="https://github.com/inkatown/knowledge_graph_github_openaiazure">link to your repository</a>).
