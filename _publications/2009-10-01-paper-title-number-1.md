@@ -7,7 +7,7 @@ excerpt: 'Finding topics from a collection of documents, such as research public
 date: 2016-4-14
 venue: 'Journal of Big Data'
 slidesurl: ''
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://link.springer.com/article/10.1186/s40537-016-0039-2)'
+paperurl: 'https://link.springer.com/article/10.1186/s40537-016-0039-2'
 citation: 'Hurtado, Jose. (2016). &quot;Paper Title Number 1.&quot; <i>Journal of Big Data</i>. 1(1).'
 ---
 
