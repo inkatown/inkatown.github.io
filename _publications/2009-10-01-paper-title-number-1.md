@@ -3,7 +3,7 @@ title: "Topic discovery and future trend forecasting for texts"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Finding topics from a collection of documents, such as research publications, patents, and technical reports, is helpful for summarizing large scale text collections and the world wide web. It can also help forecast topic trends in the future. This can be beneficial for many applications, such as modeling the evolution of the direction of research and forecasting future trends of the IT industry. In this paper, we propose using association analysis and ensemble forecasting to automatically discover topics from a set of text documents and forecast their evolving trend in a near future. In order to discover meaningful topics, we collect publications from a particular research area, data mining and machine learning, as our data domain. An association analysis process is applied to the collected data to first identify a set of topics, followed by a temporal correlation analysis to help discover correlations between topics, and identify a …'
 date: 2016-4-14
 venue: 'Journal of Big Data'
 slidesurl: ''
