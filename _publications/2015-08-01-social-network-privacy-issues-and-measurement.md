@@ -1,5 +1,5 @@
 ---
-title: "Social network privacy: Issues and measurement"
+title: "Social network privacy Issues and measurement"
 collection: publications
 category: conferences 
 permalink: /publication/2015-08-01-social-network-privacy-issues-and-measurement 
